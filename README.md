@@ -1,5 +1,4 @@
 # CTH-Mentorship-Online-Sales-Analysis
-Sales analysis project using Excel dashboards &amp; PowerPoint storytelling. Includes KPIs, regional/product trends, shipment performance, and strategic recommendations for growth, inventory optimization, and customer experience.
 Project Overview:
 This repository contains an end-to-end analysis of sales transactions for an online retail company. Using Microsoft Excel for data modeling and visualization, and PowerPoint for storytelling, the project delivers actionable insights to improve sales, optimize inventory, and enhance customer experience.
 
